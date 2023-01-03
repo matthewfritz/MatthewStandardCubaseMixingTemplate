@@ -38,9 +38,9 @@ This repository is also a template repo on GitHub so you can use my project and 
 
 ## Overview
 
-![Overview of the Cubase project template](img/00_overview.png "Overview of the Cubase project template")
-
 All of my groups, busses, sends, etc. are based on stereo configurations.
+
+![Overview of the Cubase project template](img/00_overview.png "Overview of the Cubase project template")
 
 ## Input / Output Channels
 
@@ -54,9 +54,9 @@ I can always change it (and I do) as I work more within a project.
 
 ## Busses
 
-![Busses in the Cubase project](img/02_busses.png "Busses in the Cubase project")
-
 I maintain three primary overall busses grouped together in a `Busses` folder.
+
+![Busses in the Cubase project](img/02_busses.png "Busses in the Cubase project")
 
 **Color**: Pink (Color 14)
 
@@ -86,9 +86,9 @@ This is the bus resulting from all other tracks, groups, and sends when they are
 
 ## Drums
 
-![Drums in the Cubase project](img/03_drums.png "Drums in the Cubase project")
-
 I keep everything related specifically to drums together in a folder called `Drums`.
+
+![Drums in the Cubase project](img/03_drums.png "Drums in the Cubase project")
 
 **Color**: Red (Color 1)
 
@@ -158,9 +158,9 @@ This is the final group that routes all drum groups to the Instrument Bus.
 
 ## Bass
 
-![Bass in the Cubase project](img/04_bass.png "Bass in the Cubase project")
-
 I keep everything related to bass guitar specifically in a folder called `Bass`.
+
+![Bass in the Cubase project](img/04_bass.png "Bass in the Cubase project")
 
 **Color**: Yellow (Color 4)
 
@@ -178,9 +178,9 @@ This is the final group that routes all bass groups to the Instruments Bus.
 
 ## Rhythm Guitar
 
-![Rhythm guitar in the Cubase project](img/05_rhythm_guitar.png "Rhythm guitar in the Cubase project")
-
 I keep everything related to rhythm guitar specifically in a folder called `Rhythm Guitar`.
+
+![Rhythm guitar in the Cubase project](img/05_rhythm_guitar.png "Rhythm guitar in the Cubase project")
 
 **Color**: Green (Color 6)
 
@@ -198,9 +198,9 @@ This is the final group that routes all rhythm guitar groups to the Instruments 
 
 ## Lead Guitar
 
-![Lead guitar in the Cubase project](img/06_lead_guitar.png "Lead guitar in the Cubase project")
-
 I keep everything related to lead guitar specifically in a folder called `Lead Guitar`.
+
+![Lead guitar in the Cubase project](img/06_lead_guitar.png "Lead guitar in the Cubase project")
 
 **Color**: Cyan (Color 9)
 
@@ -218,9 +218,9 @@ This is the final group that routes all lead guitar groups to the Instrument Bus
 
 ## Vocals
 
-![Vocals in the Cubase project](img/07_vocals.png "Vocals in the Cubase project")
-
 I keep everything related to vocals specifically in a folder called `Vocals`.
+
+![Vocals in the Cubase project](img/07_vocals.png "Vocals in the Cubase project")
 
 ### Vocals Groups
 
