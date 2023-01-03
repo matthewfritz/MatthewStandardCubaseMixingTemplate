@@ -110,7 +110,7 @@ This contains my drum groups that collect the individual tracks before sending t
 
 #### Kick GR
 
-This is the group that contains all tracks related to the kick drums.
+This is the group that all tracks related to the kick drums use for their Output Routing.
 
 **Color**: Violet (Color 13)
 
@@ -118,7 +118,7 @@ This is the group that contains all tracks related to the kick drums.
 
 #### SD GR
 
-This is the group that contains all tracks related to the snare drum.
+This is the group that all tracks related to the snare drum use for their Output Routing.
 
 **Color**: Violet (Color 13)
 
@@ -126,7 +126,7 @@ This is the group that contains all tracks related to the snare drum.
 
 #### Tom GR
 
-This is the group that contains all tracks related to the toms.
+This is the group that all tracks related to the toms use for their Output Routing.
 
 **Color**: Violet (Color 13)
 
@@ -134,7 +134,7 @@ This is the group that contains all tracks related to the toms.
 
 #### Cymbal GR
 
-This is the group that contains all tracks related to the cymbals.
+This is the group that all tracks related to the cymbals use for their Output Routing.
 
 **Color**: Violet (Color 13)
 
@@ -142,7 +142,7 @@ This is the group that contains all tracks related to the cymbals.
 
 #### Room GR
 
-This is the group that contains all tracks related to the overheads or room mics for the drums.
+This is the group that all tracks related to the overheads or room mics use for their Output Routing.
 
 **Color**: Violet (Color 13)
 
@@ -170,7 +170,9 @@ This contains my bass groups that collect the individual tracks before sending t
 
 #### Bass GR
 
-This is the final group that routes all bass groups to the Instruments Bus.
+This is the final group that routes all bass tracks to the Instruments Bus.
+
+This should be the group that all bass tracks use for their own Output Routing.
 
 **Color**: Violet (Color 13)
 
@@ -190,7 +192,9 @@ This contains my rhythm guitar groups that collect the individual tracks before 
 
 #### Rhythm Guitar GR
 
-This is the final group that routes all rhythm guitar groups to the Instruments Bus.
+This is the final group that routes all rhythm guitar tracks to the Instruments Bus.
+
+This should be the group that all rhythm guitar tracks use for their own Output Routing.
 
 **Color**: Violet (Color 13)
 
@@ -210,7 +214,9 @@ This contains my lead guitar groups that collect the individual tracks before se
 
 #### Lead Guitar GR
 
-This is the final group that routes all lead guitar groups to the Instrument Bus.
+This is the final group that routes all lead guitar tracks to the Instrument Bus.
+
+This should be the group that all lead guitar tracks use for their own Output Routing.
 
 **Color**: Violet (Color 13)
 
@@ -230,7 +236,9 @@ This contains my vocals groups that collect the individual tracks before sending
 
 #### Vocals GR
 
-This is the final group that routes all vocals groups to the Vocals Bus.
+This is the final group that routes all vocals tracks to the Vocals Bus.
+
+This should be the group that all vocals tracks use for their own Output Routing.
 
 **Color**: Violet (Color 13)
 
