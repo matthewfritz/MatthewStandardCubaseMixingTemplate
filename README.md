@@ -2,6 +2,8 @@
 
 This is the standard Cubase Artist 12 template that Matthew Fritz starts with when mixing projects.
 
+This repository is also a template repo on GitHub so you can use my project and file structure immediately when starting your own Cubase projects.
+
 ## Table of Contents
 
 * [Overview](#overview)
