@@ -1,3 +1,3 @@
 # Matthew Fritz's Standard Cubase Template
 
-This is the standard Cubase template that Matthew Fritz starts with when mixing projects.
+This is the standard Cubase Artist 12 template that Matthew Fritz starts with when mixing projects.
