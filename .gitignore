@@ -1,0 +1,21 @@
+# Do not commit our actual audio files yet since those can become incredibly large binary files
+Audio/
+
+# Do not commit the waveform images for our tracks since we aren't committing the actual audio
+# files themselves and the images are pointless without the source data
+Images/
+
+# Do not commit the dot file for the Cubase project since this file is created each time the
+# project is open within the DAW
+.*.cpr
+
+# Do not commit the history of audio edits directly since we will still be able to go back
+# through the edit history locally
+.*.csh
+*.csh
+
+# Do not commit the .bak files with the same name as the Cubase project since these are
+# incremental files created so there is a known-good recovery location to start from in
+# case the DAW crashes while we are working
+._*.bak
+*.bak
