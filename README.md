@@ -17,6 +17,7 @@ This repository is also a template repo on GitHub so you can use my project ([`M
    * [Drum Sends](#drum-sends)
       * [drumverb](#drumverb)
    * [Drum Groups](#drum-groups)
+      * [OH GR](#oh-gr)
       * [Kick GR](#kick-gr)
       * [SD GR](#sd-gr)
       * [Tom GR](#tom-gr)
@@ -108,6 +109,14 @@ This is an FX track that I use for my drum reverb, typically only on the tracks 
 
 This contains my drum groups that collect the individual tracks before sending them to the Instruments Bus.
 
+#### OH GR
+
+This is the group that all tracks related to the overheads should use for their Output Routing.
+
+**Color**: Violet (Color 13)
+
+**Output Routing**: [Drum GR](#drum-gr)
+
 #### Kick GR
 
 This is the group that all tracks related to the kick drums should use for their Output Routing.
@@ -142,7 +151,7 @@ This is the group that all tracks related to the cymbals should use for their Ou
 
 #### Room GR
 
-This is the group that all tracks related to the overheads or room mics should use for their Output Routing.
+This is the group that all tracks related to the room mics should use for their Output Routing.
 
 **Color**: Violet (Color 13)
 
